@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: sreenu5743/sreenu:sreedockerimage
+        image: sreenu5743/k8srepo:imagegame
         ports:
         - containerPort: 3000   # Use port 3000
 
